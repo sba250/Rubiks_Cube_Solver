@@ -14,7 +14,7 @@ A Java implementation of a Rubik's Cube solver using the A* search algorithm wit
 
 
 ## Structure
-├── src/           # Source code\
+├── src/           # Source code, 2 files\
 ├── test/          # Test cases; input files\
 ├── docs/          # Documentation\
 └── README.md      # This file
