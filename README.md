@@ -1,6 +1,6 @@
 # Rubik's Cube Solver
 By Shahar Bano and Ruvi Muskwe\
-For CMPT 225 Data Structures and Programming - Fall 2025
+For CMPT 225, Data Structures and Programming - Fall 2025, Simon Fraser University
 
 A Java implementation of a Rubik's Cube solver using the A* search algorithm with custom heuristics.
 
